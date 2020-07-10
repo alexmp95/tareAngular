@@ -1,0 +1,36 @@
+.titulorojo{
+    color: rgb(247, 6, 6);
+    text-align: center;
+}
+.subtitulo{
+    text-align: center;
+}
+.parrafogris{
+    color: rgb(88, 88, 88);
+    font-size: 2em;
+}
+.nombre{
+    text-align: center;
+}
+
+
+table.tblapre{
+    margin: 0 auto;
+    border-collapse: collapse;
+    border: 2px solid black;
+    border-color: rgb(0, 0, 0);
+    border-radius: 2em;
+}
+.tblapre .des{
+    text-align: center;
+}
+.tblapre .su{
+    text-align: right;
+    font-weight: bold;
+}
+
+footer{
+    text-align: center;
+    font-weight: bold;
+    font-size: 2em;
+}
